@@ -1,0 +1,123 @@
+[
+    {
+        "Name": "حيوانات في القران",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSfvPk470bOSpyC_LFkRI6qXvEz4r-BKyEtKR4rAbL0Ms12inw/viewform",
+        "category": "قران",
+        "disc": "اختبار قرآني شيق وبسيط: أكمل الفراغات باسم حيوان أو طائر:  عبارة عن 30 سؤال كل سؤال مقدر بعدد من النقاط ",
+        "countMSQ": 30
+    },
+    
+    {
+        "Name": "اختبار عن فقه الطهارة",
+        "Link": "https://capsolat.com/snax_quiz/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%b9%d9%86-%d9%81%d9%82%d9%87-%d8%a7%d9%84%d8%b7%d9%87%d8%a7%d8%b1%d8%a9/",
+        "category": "فقه",
+        "disc": "لديكم اختبار مكون من 10 أسئلة حول الطهارة ",
+        "countMSQ": 10
+    }
+    ,
+
+    {
+        "Name": "أسئلة دينية",
+        "Link": "https://capsolat.com/snax_quiz/%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%af%d9%8a%d9%86%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%ad%d9%84/",
+        "category": "متنوع",
+        "disc": "أسئلة دينية مع الخيارات والحل لديكم 15 سؤالاً",
+        "countMSQ": 15
+    }
+    ,
+
+    {
+        "Name": "اختبار في القران",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSd3w9xbX3rpba8OImfrO2C8EbOcU2giMkZyEyJBLh1_opEzbQ/viewform",
+        "category": "قران",
+        "disc": "اسئلة  حول القرآن الكريم عبارة عن 20 سؤال كل سؤال مقدر بعدد من النقاط ",
+        "countMSQ": 20
+    }
+    ,
+    {
+        "Name": "اختبار عن قصة مولد النبي محمد ﷺ",
+        "Link": "https://capsolat.com/snax_quiz/%d9%82%d8%b5%d8%a9-%d9%85%d9%88%d9%84%d8%af-%d8%a7%d9%84%d9%86%d8%a8%d9%8a-%d9%85%d8%ad%d9%85%d8%af-%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%86%d9%87%d8%a7/",
+        "category": "سيرة نبوية",
+        "disc": "اختبار عن قصة مولد النبي محمد ﷺ",
+        "countMSQ": 10
+    }
+    ,
+    {
+        "Name": "أسئلة دينية صعبة",
+        "Link": "https://capsolat.com/snax_quiz/%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%af%d9%8a%d9%86%d9%8a%d8%a9-%d8%b5%d8%b9%d8%a8%d8%a9-%d9%87%d9%84-%d9%84%d8%af%d9%8a%d9%83-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%af%d9%8a%d9%86%d9%8a/#google_vignette",
+        "category": "متنوع",
+        "disc": "أسئلة دينية صعبة .. هل لديك معلومات دينية لحلها ",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name": "أسئلة عن ليلة القدر ",
+        "Link": "https://capsolat.com/snax_quiz/%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b9%d9%86-%d9%84%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1-%d9%88%d8%af%d8%b9%d8%a7%d8%a1-%d9%84%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1-%d9%88%d8%b9/#google_vignette",
+        "category": "متنوع",
+        "disc": "أسئلة عن ليلة القدر ودعاء ليلة القدر وعلاماتها",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"اختبار عن العيد " ,
+        "Link": "https://capsolat.com/snax_quiz/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%b9%d9%86-%d8%b5%d9%84%d8%a7%d8%a9-%d8%a7%d9%84%d8%b9%d9%8a%d8%af-%d9%88%d8%b3%d9%86%d9%86-%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d9%8a%d8%af/",
+        "category": "متنوع",
+        "disc": "أسئلة عن العيد وحول صلاة العيد و سنن يوم العيد",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"سئلة عن العشر الأواخر" ,
+        "Link": "https://capsolat.com/snax_quiz/%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d8%a7%d8%ae%d8%b1-%d9%88%d9%84%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1/#google_vignette",
+        "category": "متنوع",
+        "disc": "أسئلة عن العشر الأواخر وليلة القدر",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"اختبر معلوماتك عن الصلاة" ,
+        "Link": "https://capsolat.com/snax_quiz/%d8%a7%d8%ae%d8%aa%d8%a8%d8%b1-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%d9%83-%d8%b9%d9%86-%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d8%a9-%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d8%a9/",
+        "category": "متنوع",
+        "disc": "اختبر معلوماتك عن الصلاة .. تعليم الصلاة",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"أسئلة دينية عن الأنبياء" ,
+        "Link": "https://capsolat.com/snax_quiz/%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b9%d9%86-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d8%a7%d8%ae%d8%aa%d8%a8%d8%b1-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/",
+        "category": "قصص الانبياء",
+        "disc": "أسئلة دينية عن الأنبياء .. اختبر معلوماتك",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"أسئلة عن معجزات الأنبياء" ,
+        "Link": "https://capsolat.com/snax_quiz/10%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b9%d9%86-%d9%85%d8%b9%d8%ac%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d9%85%d8%b9-%d8%a7%d9%84%d8%a5%d8%ac%d8%a7%d8%a8%d8%a7%d8%aa/#google_vignette",
+        "category": "قصص الانبياء",
+        "disc": "10 أسئلة عن معجزات الأنبياء مع الإجابات   ",
+        "countMSQ": 10
+    }
+    ,
+    {
+        "Name":"اختبار في سورة الكهف" ,
+        "Link": "https://capsolat.com/snax_quiz/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d9%87%d9%81/",
+        "category": "قران",
+        "disc": "اختبار في سورة الكهف",
+        "countMSQ": 16
+    }
+    ,
+    {
+        "Name":"اختبار في سورة مريم" ,
+        "Link": "https://capsolat.com/snax_quiz/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D8%A9-%D9%85%D8%B1%D9%8A%D9%85/",
+        "category": "قران",
+        "disc": "اختبار في سورة مريم",
+        "countMSQ": 15
+    }
+    ,
+    {
+        "Name":"اختبار في سورة البقرة" ,
+        "Link": "https://capsolat.com/snax_quiz/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a3%d9%88%d9%84/",
+        "category": "قران",
+        "disc": "اختبار في سورة البقرة (الجزء الأول)",
+        "countMSQ": 15
+    }
+]
