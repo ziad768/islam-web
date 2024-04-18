@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import { surah } from "../Types/app";
 import LoadingPage from "../Components/LoadingPage";
 import Audio from "../Components/SoundReciter/Audio";
-import NotFound from './Error/NotFound.jsx';
+import NotFound from './Error/NotFound.tsx';
 
 function Surah() {
   const { NumberSurah } = useParams();
