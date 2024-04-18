@@ -9,7 +9,7 @@ import { NextUIProvider } from "@nextui-org/react";
 import Questions from "./page/Questions";
 import AlQuran from "./page/AlQuran";
 import Surah from "./page/Surah";
-import NotFound from './page/Error/NotFound.jsx';
+import NotFound from './page/Error/NotFound.tsx';
 
 function App() {
   return (
