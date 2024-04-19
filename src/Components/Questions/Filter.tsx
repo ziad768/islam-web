@@ -1,17 +1,30 @@
-import { Input, Listbox, ListboxItem } from "@nextui-org/react";
+import { useState, useEffect, useMemo } from "react";
+import { Input, Listbox, ListboxItem, Selection } from "@nextui-org/react";
 import { ListboxWrapper } from "./ListboxWrapper";
 import { SearchIcon } from "./SearchIcon";
-import { SetStateAction, useEffect, useMemo, useState } from "react";
 
-export default function filter({ selected ,searchText, setSearchText}: { selected: SetStateAction, searchText :string, setSearchText:SetStateAction}) {
-  const [selectedKeys, setSelectedKeys] = useState(new Set([""]));
+interface FilterProps {
+  selected: (selected: string) => void;
+  searchText: string;
+  setSearchText: (searchText: string) => void;
+}
+
+export default function Filter({
+  selected,
+  searchText,
+  setSearchText,
+}: FilterProps) {
+  const [selectedKeys, setSelectedKeys] = useState<Selection>(new Set<string>([""]));
+
   const selectedValue = useMemo(
     () => Array.from(selectedKeys).join(", "),
     [selectedKeys]
   );
+
   useEffect(() => {
     selected(selectedValue);
-  }, [selectedValue]);
+  }, [selectedValue, selected]);
+
   return (
     <div className="flex flex-col text-end gap-2 h-full">
       <ListboxWrapper>
@@ -23,7 +36,7 @@ export default function filter({ selected ,searchText, setSearchText}: { selecte
           disallowEmptySelection
           selectionMode="single"
           selectedKeys={selectedKeys}
-          onSelectionChange={setSelectedKeys}
+          onSelectionChange={(keys: Selection) => setSelectedKeys(keys)}
         >
           <ListboxItem key="" className="flex-row-reverse">
             الكل
@@ -35,7 +48,7 @@ export default function filter({ selected ,searchText, setSearchText}: { selecte
             سيرة نبوية
           </ListboxItem>
           <ListboxItem key="فقه" className="flex-row-reverse">
-          فقه
+            فقه
           </ListboxItem>
           <ListboxItem key="الصحابة" className="flex-row-reverse">
             الصحابة

@@ -6,7 +6,7 @@ import Audio from "../Components/SoundReciter/Audio";
 import NotFound from './Error/NotFound.tsx';
 
 function Surah() {
-  const { NumberSurah } = useParams();
+  const { NumberSurah = 1 } = useParams();
   const [Surah, setSurah] = useState<surah>({} as surah);
   const [Loading, setLoading] = useState<boolean>(false);
   useEffect(() => {
@@ -36,10 +36,10 @@ function Surah() {
               <span
                 key={ayah.numberInSurah}
                 onMouseEnter={(e) => {
-                  e.currentTarget.children[1].play();
+                  (e.currentTarget.children[1] as HTMLAudioElement).play();
 
                 }}
-                onMouseLeave={(e) => e.currentTarget.children[1].pause()}
+                onMouseLeave={(e)=>(e.currentTarget.children[1] as HTMLAudioElement).pause()}
                 className="p-2 my-2 fs-1 cursor-pointer"
               >
                 {ayah.text}
