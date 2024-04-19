@@ -8,7 +8,7 @@ function AlQuran() {
     fetch("https://api.alquran.cloud/v1/surah")
       .then((res) => res.json())
       .then((e) => setSurahes(e.data));
-  }, [Surahes]);
+  }, []);
   return (
     <div className="container py-5 ">
       <h1 className="text-center text fs-1 mb-3" style={{ padding: "25px 0" }}>
