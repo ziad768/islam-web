@@ -23,7 +23,7 @@ function AlReciters() {
 
     // fetch data
   useEffect(()=>{
-    fetch('./src/Json/reciters.json').then(e=> e.json()).then(e=> {setAllData(e),setShowData(e)})
+    fetch('src/Json/reciters.json').then(e=> e.json()).then(e=> {setAllData(e),setShowData(e)})
     },[])
   return (
     <div className="text-center  py-4  ">
