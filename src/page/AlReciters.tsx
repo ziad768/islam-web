@@ -2,8 +2,6 @@ import { useEffect, useState } from "react";
 import PaginatedItems from "./Pagiate";
 import { Reciter } from "../Types/app";
 
-import reciters  from "../Json/reciters.json";
-
 
 
 
@@ -11,8 +9,8 @@ import reciters  from "../Json/reciters.json";
 function AlReciters() {
   const [Select,setSelect] = useState<string>('')
   const [search,setSearch] = useState<string>('')
-  const [AllData,setAllData] = useState<Reciter[]>(reciters )
-  const [ShowData, setShowData]=useState<Reciter[]>(reciters )  
+  const [AllData,setAllData] = useState<Reciter[]>([] as Reciter[] )
+  const [ShowData, setShowData]=useState<Reciter[]>([] as Reciter[] )    
   //search of data
   useEffect(()=>{
     if(Select == ''){
@@ -21,6 +19,10 @@ function AlReciters() {
       setShowData(AllData.filter(e => e.name.includes(search) && e.rewaya == Select))
     }
     },[search , Select])
+      // fetch data
+  useEffect(()=>{
+    fetch('src/Json/reciters.json').then(e=> e.json()).then(e=> {setAllData(e),setShowData(e)})
+    },[])
   return (
     <div className="text-center  py-4  ">
       <h2 className=" fs-1">جميع القراء</h2>
