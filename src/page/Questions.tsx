@@ -17,7 +17,7 @@ function Questions() {
         >
           <Filter selected={setfilter} searchText={searchText} setSearchText={setSearchText} />
         </div>
-        <div className="col-12 col-lg-8  d-flex justify-between flex-wrap gap-5">
+        <div className="col-12 col-lg-8  d-flex justify-between flex-wrap gap-5 pt-5 pt-md-0">
           <CardQ filter={filter} searchText={searchText} />
         </div>
       </div>

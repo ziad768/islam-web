@@ -7,7 +7,8 @@ function AlQuran() {
   useEffect(() => {
     fetch("https://api.alquran.cloud/v1/surah")
       .then((res) => res.json())
-      .then((e) => setSurahes(e.data));
+      .then((e) => {setSurahes(e.data); console.log("done")
+      });
   }, []);
   return (
     <div className="container py-5 ">

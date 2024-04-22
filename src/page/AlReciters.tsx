@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import PaginatedItems from "./Pagiate";
 import { Reciter } from "../Types/app";
+import reciters from "../data/reciters.json";
 
 
 
@@ -9,8 +10,8 @@ import { Reciter } from "../Types/app";
 function AlReciters() {
   const [Select,setSelect] = useState<string>('')
   const [search,setSearch] = useState<string>('')
-  const [AllData,setAllData] = useState<Reciter[]>([] as Reciter[] )
-  const [ShowData, setShowData]=useState<Reciter[]>([] as Reciter[] )    
+  const [AllData,setAllData] = useState<Reciter[]>(reciters )
+  const [ShowData, setShowData]=useState<Reciter[]>(reciters )  
   //search of data
   useEffect(()=>{
     if(Select == ''){
@@ -19,7 +20,8 @@ function AlReciters() {
       setShowData(AllData.filter(e => e.name.includes(search) && e.rewaya == Select))
     }
     },[search , Select])
-      // fetch data
+
+    // fetch data
   useEffect(()=>{
     fetch('src/Json/reciters.json').then(e=> e.json()).then(e=> {setAllData(e),setShowData(e)})
     },[])
@@ -31,9 +33,15 @@ function AlReciters() {
           <input
           onChange={(e)=>setSearch(e.currentTarget.value)}
             type="text"
-            className="form-control  text-end"
+            className="col-12 p-1 rounded  text-end d-block d-md-none mt-3"
+            placeholder=" ... بحث عن قارئ " aria-label="Recipient's username" aria-describedby="button-addon2" 
           />
-          <select  className="fs-4 text-end" onChange={(e)=> setSelect(e.currentTarget.value)}  >
+          <input
+          onChange={(e)=>setSearch(e.currentTarget.value)}
+            type="text"
+            className="form-control  text-end d-none d-md-block"
+          />
+          <select  className="fs-4 text-end col-12 col-md-3 mt-3 mt-md-0" onChange={(e)=> setSelect(e.currentTarget.value)}  >
             <option value="" selected> ترتيب : قراءة</option>
             <option value="حفص عن عاصم">حفص عن عاصم</option>
             <option value="ورش عن نافع">ورش عن نافع</option>

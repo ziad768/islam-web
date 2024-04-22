@@ -24,20 +24,20 @@ function Surah() {
       {!Number.isInteger(+NumberSurah)? <NotFound/> : Loading ? (
         <div className=" " style={{padding:'100px 0'}}>
           <div
-            className="bg-cover  p-3 container fs-1 rounded  my-3 text-center"
+            className="bg-cover  p-3 container fs-1 rounded  my-3 text-center col-11"
             style={{ border: "solid 3px #258" }}
           >
             {Surah.englishName}
             <br />
             {Surah.name}
           </div>
-          <div className="bg-cover caverSurah p-3 container mb-5 text-end rounded py-5 my-5">
+          <div className="bg-cover caverSurah p-3 container mb-5 text-end rounded py-5 my-5 col-11">
             {Surah?.ayahs?.map((ayah) => (
               <span
                 key={ayah.numberInSurah}
                 onMouseEnter={(e) => {
-                  (e.currentTarget.children[1] as HTMLAudioElement).play();
-
+                  (e.currentTarget.children[1] as HTMLAudioElement).play();                  
+                  (e.currentTarget.children[1] as HTMLAudioElement).currentTime = 0;                  
                 }}
                 onMouseLeave={(e)=>(e.currentTarget.children[1] as HTMLAudioElement).pause()}
                 className="p-2 my-2 fs-1 cursor-pointer"
@@ -49,7 +49,7 @@ function Surah() {
                 >
                   {ayah.numberInSurah}
                 </span>
-                <audio src={ayah.audio} className="d-none" />
+                <audio src={ayah.audio} className="d-none" loop />
               </span>
             ))}
           </div>
