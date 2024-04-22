@@ -15,21 +15,22 @@ function App() {
   return (
     <NextUIProvider>
       <BrowserRouter>
-        <Home />
         <Routes>
-          <Route path="/" element={<></>} />
-          <Route path="/Reciters" element={<AlReciters />} />
-          <Route path="/Quran" element={<Outlet />}>
+          <Route path="/" element={
+            <>
+            <Home />
+            <Outlet/>
+            </>
+          } >
+          <Route path="Reciters" element={<AlReciters />} />
+          <Route path="Quran" element={<Outlet />}>
             <Route path="" element={<AlQuran />} />
             <Route path=":NumberSurah" element={<Surah />} />
           </Route>
-          <Route path="/Questions" element={<Outlet />}>
-            <Route path="" element={<Questions />} />
-          </Route>
-          <Route path="/sound" element={<Outlet />}>
-            <Route path=":id" element={<SoundReciter />} />
-          </Route>
+          <Route path="Questions" element={<Questions />}/>
+          <Route path="sound/:id" element={<SoundReciter />}/>
           <Route path="*" element={<NotFound/>} />
+          </Route>
         </Routes>
       </BrowserRouter>
     </NextUIProvider>
@@ -37,3 +38,4 @@ function App() {
 }
 
 export default App;
+
