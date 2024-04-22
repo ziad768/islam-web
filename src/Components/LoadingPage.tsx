@@ -1,7 +1,7 @@
 import { FadeLoader } from 'react-spinners'
 function LoadingPage() {
   return (
-      <div  style={{width:'99vw' , height:"102%" , backgroundColor: 'rgba(255,255,255,0.4)' }} className=' z-50 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 d-flex justify-center items-center '>
+      <div  style={{width:'99vw' , height:"100vh" , backgroundColor: 'rgba(255,255,255,0.4)' }} className=' z-50 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 d-flex justify-center items-center '>
     <FadeLoader  width={50} height={50} radius={20} color="#36d7b7" />
     <div className='pageLoading'>
     <div className="card mx-auto loadingSpinner ">
