@@ -1,0 +1,32 @@
+{
+    "routes":[
+        {
+            "src":"/",
+            "dest": "/"
+        },
+        {
+            "src":"/Reciters",
+            "dest": "/"
+        },
+        {
+            "src":"/Quran",
+            "dest": "/"
+        },
+        {
+            "src":"/Quran/:NumberSurah",
+            "dest": "/"
+        },
+        {
+            "src":"/Questions",
+            "dest": "/"
+        },
+        {
+            "src":"/sound/:id",
+            "dest": "/"
+        },
+        {
+            "src":"/*",
+            "dest": "/"
+        }
+    ]
+}
