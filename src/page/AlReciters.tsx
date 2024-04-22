@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import PaginatedItems from "./Pagiate";
 import { Reciter } from "../Types/app";
-import reciters from "../data/reciters.json";
+import reciters from "../Json/reciters.json";
 
 
 
