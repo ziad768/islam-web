@@ -2,7 +2,7 @@
 	{
 		"id": 4,
 		"name": "أبو بكر الشاطري",
-		"image": "src/assets/295333051_147160631296249_6145078747691637838_n.jpg",
+		"image": "295333051_147160631296249_6145078747691637838_n.jpg",
 		"Server": "http://server11.mp3quran.net/shatri",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -12,7 +12,7 @@
 	{
 		"id": 6,
 		"name": "أحمد الحواشي",
-		"image": "src/assets/300629169_488663873264405_8542186424733730796_n.jpg",
+		"image": "300629169_488663873264405_8542186424733730796_n.jpg",
 		"Server": "http://server11.mp3quran.net/hawashi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -22,7 +22,7 @@
 	{
 		"id": 201,
 		"name": "أحمد الطرابلسي",
-		"image": "src/assets/OIP(1).jpeg",
+		"image": "OIP(1).jpeg",
 		"Server": "http://server10.mp3quran.net/trabulsi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -32,7 +32,7 @@
 	{
 		"id": 5,
 		"name": "أحمد بن علي العجمي",
-		"image": "src/assets/337426187_6333510383410375_5592117233057665560_n.jpg",
+		"image": "337426187_6333510383410375_5592117233057665560_n.jpg",
 		"Server": "http://server10.mp3quran.net/ajm/128",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -42,7 +42,7 @@
 	{
 		"id": 199,
 		"name": "أحمد خضر الطرابلسي",
-		"image": "src/assets/OIP(1).jpeg",
+		"image": "OIP(1).jpeg",
 		"Server": "http://server10.mp3quran.net/trablsi",
 		"rewaya": "قالون عن نافع",
 		"count": "114",
@@ -52,7 +52,7 @@
 	{
 		"id": 8,
 		"name": "أحمد صابر",
-		"image": "src/assets/305978223_190480426695616_8127103198509571716_n.jpg",
+		"image": "305978223_190480426695616_8127103198509571716_n.jpg",
 		"Server": "http://server8.mp3quran.net/saber",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -62,7 +62,7 @@
 	{
 		"id": 203,
 		"name": "أحمد عامر",
-		"image": "src/assets/0976988b16f2f120896284e4e1203bd1.jpg",
+		"image": "0976988b16f2f120896284e4e1203bd1.jpg",
 		"Server": "http://server10.mp3quran.net/Aamer",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -72,7 +72,7 @@
 	{
 		"id": 9,
 		"name": "أحمد نعينع",
-		"image": "src/assets/hqdefault(1).jpg",
+		"image": "hqdefault(1).jpg",
 		"Server": "http://server11.mp3quran.net/ahmad_nu",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -82,7 +82,7 @@
 	{
 		"id": 10,
 		"name": "أكرم العلاقمي",
-		"image": "src/assets/download(1).jpeg",
+		"image": "download(1).jpeg",
 		"Server": "http://server9.mp3quran.net/akrm",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -92,7 +92,7 @@
 	{
 		"id": 1,
 		"name": "إبراهيم الأخضر",
-		"image": "src/assets/ibrahim-al-akhdar.png",
+		"image": "ibrahim-al-akhdar.png",
 		"Server": "http://server6.mp3quran.net/akdr",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -102,7 +102,7 @@
 	{
 		"id": 178,
 		"name": "ابراهيم الدوسري",
-		"image": "src/assets/hqdefault.jpg",
+		"image": "hqdefault.jpg",
 		"Server": "http://server10.mp3quran.net/ibrahim_dosri_warsh",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -112,7 +112,7 @@
 	{
 		"id": 208,
 		"name": "الدوكالي محمد العالم",
-		"image": "src/assets/download(2).jpeg",
+		"image": "download(2).jpeg",
 		"Server": "http://server7.mp3quran.net/dokali",
 		"rewaya": "قالون عن نافع",
 		"count": "114",
@@ -122,7 +122,7 @@
 	{
 		"id": 13,
 		"name": "الزين محمد أحمد",
-		"image": "src/assets/364209636_2362697023902046_678661762846560800_n.jpg",
+		"image": "364209636_2362697023902046_678661762846560800_n.jpg",
 		"Server": "http://server9.mp3quran.net/alzain",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -132,7 +132,7 @@
 	{
 		"id": 15,
 		"name": "العشري عمران",
-		"image": "src/assets/download(3).jpeg",
+		"image": "download(3).jpeg",
 		"Server": "http://server9.mp3quran.net/omran",
 		"rewaya": "حفص عن عاصم",
 		"count": "113",
@@ -142,7 +142,7 @@
 	{
 		"id": 16,
 		"name": "العيون الكوشي",
-		"image": "src/assets/al.jpg",
+		"image": "al.jpg",
 		"Server": "http://server11.mp3quran.net/koshi",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -152,7 +152,7 @@
 	{
 		"id": 211,
 		"name": "الفاتح محمد الزبير",
-		"image": "src/assets/178415984_3972942949461471_2161237131767058793_n.jpg",
+		"image": "178415984_3972942949461471_2161237131767058793_n.jpg",
 		"Server": "http://server6.mp3quran.net/fateh",
 		"rewaya": "الدوري عن أبي عمرو",
 		"count": "114",
@@ -162,7 +162,7 @@
 	{
 		"id": 14,
 		"name": "القارئ ياسين",
-		"image": "src/assets/150898438_270748527744286_7993911358028827286_n.jpg",
+		"image": "150898438_270748527744286_7993911358028827286_n.jpg",
 		"Server": "http://server11.mp3quran.net/qari",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -172,7 +172,7 @@
 	{
 		"id": 17,
 		"name": "توفيق الصايغ",
-		"image": "src/assets/196808672_174479748025012_2878480895082857399_n.jpg",
+		"image": "196808672_174479748025012_2878480895082857399_n.jpg",
 		"Server": "http://server6.mp3quran.net/twfeeq",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -182,7 +182,7 @@
 	{
 		"id": 18,
 		"name": "جمال شاكر عبدالله",
-		"image": "src/assets/jamal-shaker-abdullah-548.jpg",
+		"image": "jamal-shaker-abdullah-548.jpg",
 		"Server": "http://server6.mp3quran.net/jamal",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -192,7 +192,7 @@
 	{
 		"id": 181,
 		"name": "جمعان العصيمي",
-		"image": "src/assets/jamaan-alosaimi.png",
+		"image": "jamaan-alosaimi.png",
 		"Server": "http://server6.mp3quran.net/jaman",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -202,7 +202,7 @@
 	{
 		"id": 163,
 		"name": "حاتم فريد الواعر",
-		"image": "src/assets/158370204_278403796982742_986793258793543904_n.jpg",
+		"image": "158370204_278403796982742_986793258793543904_n.jpg",
 		"Server": "http://server11.mp3quran.net/hatem",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -212,7 +212,7 @@
 	{
 		"id": 21,
 		"name": "خالد القحطاني",
-		"image": "src/assets/aa.jpg",
+		"image": "aa.jpg",
 		"Server": "http://server10.mp3quran.net/qht",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -222,7 +222,7 @@
 	{
 		"id": 159,
 		"name": "خالد المهنا",
-		"image": "src/assets/download(4).jpeg",
+		"image": "download(4).jpeg",
 		"Server": "http://server11.mp3quran.net/mohna",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -232,7 +232,7 @@
 	{
 		"id": 22,
 		"name": "خالد عبدالكافي",
-		"image": "src/assets/da.jpeg",
+		"image": "da.jpeg",
 		"Server": "http://server11.mp3quran.net/kafi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -242,7 +242,7 @@
 	{
 		"id": 24,
 		"name": "خليفة الطنيجي",
-		"image": "src/assets/296342808_448779007258029_2598695261124275375_n.jpg",
+		"image": "296342808_448779007258029_2598695261124275375_n.jpg",
 		"Server": "http://server12.mp3quran.net/tnjy",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -252,7 +252,7 @@
 	{
 		"id": 33,
 		"name": "زكي داغستاني",
-		"image": "src/assets/download(5).jpeg",
+		"image": "download(5).jpeg",
 		"Server": "http://server9.mp3quran.net/zaki",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -262,7 +262,7 @@
 	{
 		"id": 30,
 		"name": "سعد الغامدي",
-		"image": "src/assets/305290840_622804439206539_6394620294393706580_n.jpg",
+		"image": "305290840_622804439206539_6394620294393706580_n.jpg",
 		"Server": "http://server7.mp3quran.net/s_gmd",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -272,7 +272,7 @@
 	{
 		"id": 31,
 		"name": "سعود الشريم",
-		"image": "src/assets/18739803_321115991641361_8940736313446007702_n.jpg",
+		"image": "18739803_321115991641361_8940736313446007702_n.jpg",
 		"Server": "http://server7.mp3quran.net/shur",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -282,7 +282,7 @@
 	{
 		"id": 32,
 		"name": "سهل ياسين",
-		"image": "src/assets/302558899_402872268650256_3675462818276381133_n.jpg",
+		"image": "302558899_402872268650256_3675462818276381133_n.jpg",
 		"Server": "http://server6.mp3quran.net/shl",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -292,7 +292,7 @@
 	{
 		"id": 36,
 		"name": "سيد رمضان",
-		"image": "src/assets/download(6).jpeg",
+		"image": "download(6).jpeg",
 		"Server": "http://server12.mp3quran.net/sayed",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -302,7 +302,7 @@
 	{
 		"id": 38,
 		"name": "شيرزاد عبدالرحمن طاهر",
-		"image": "src/assets/295355159_362339649402738_2970197284793602944_n.jpg",
+		"image": "295355159_362339649402738_2970197284793602944_n.jpg",
 		"Server": "http://server12.mp3quran.net/taher",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -312,7 +312,7 @@
 	{
 		"id": 39,
 		"name": "صابر عبدالحكم",
-		"image": "src/assets/158730207_120589273407044_7404210776836184078_n.jpg",
+		"image": "158730207_120589273407044_7404210776836184078_n.jpg",
 		"Server": "http://server12.mp3quran.net/hkm",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -322,7 +322,7 @@
 	{
 		"id": 43,
 		"name": "صلاح البدير",
-		"image": "src/assets/299609225_602923994731852_6784887504769172803_n.jpg",
+		"image": "299609225_602923994731852_6784887504769172803_n.jpg",
 		"Server": "http://server6.mp3quran.net/s_bud",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -332,7 +332,7 @@
 	{
 		"id": 44,
 		"name": "صلاح الهاشم",
-		"image": "src/assets/306281674_129519816514212_8605709991331767209_n.jpg",
+		"image": "306281674_129519816514212_8605709991331767209_n.jpg",
 		"Server": "http://server12.mp3quran.net/salah_hashim_m",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -342,7 +342,7 @@
 	{
 		"id": 46,
 		"name": "صلاح بو خاطر",
-		"image": "src/assets/337548717_576397707789083_5065690179396058518_n.jpg",
+		"image": "337548717_576397707789083_5065690179396058518_n.jpg",
 		"Server": "http://server8.mp3quran.net/bu_khtr",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -352,7 +352,7 @@
 	{
 		"id": 212,
 		"name": "طارق عبدالغني دعوب",
-		"image": "src/assets/173563273_1963180727155578_7451695432536703078_n.jpg",
+		"image": "173563273_1963180727155578_7451695432536703078_n.jpg",
 		"Server": "http://server10.mp3quran.net/tareq",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -362,7 +362,7 @@
 	{
 		"id": 160,
 		"name": "عادل الكلباني",
-		"image": "src/assets/6b48d968f5eefe5cefe742ffec629230.jpg",
+		"image": "6b48d968f5eefe5cefe742ffec629230.jpg",
 		"Server": "http://server8.mp3quran.net/a_klb",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -372,7 +372,7 @@
 	{
 		"id": 48,
 		"name": "عادل ريان",
-		"image": "src/assets/138217112_230045345350748_7048889259369185662_n.jpg",
+		"image": "138217112_230045345350748_7048889259369185662_n.jpg",
 		"Server": "http://server8.mp3quran.net/ryan",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -382,7 +382,7 @@
 	{
 		"id": 49,
 		"name": "عبدالبارئ الثبيتي",
-		"image": "src/assets/1798935_767773869944002_763251523224960099_o.jpg",
+		"image": "1798935_767773869944002_763251523224960099_o.jpg",
 		"Server": "http://server6.mp3quran.net/thubti",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -392,7 +392,7 @@
 	{
 		"id": 50,
 		"name": "عبدالبارئ محمد",
-		"image": "src/assets/DLASK.jpeg",
+		"image": "DLASK.jpeg",
 		"Server": "http://server12.mp3quran.net/bari",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -402,7 +402,7 @@
 	{
 		"id": 53,
 		"name": "عبدالباسط عبدالصمد",
-		"image": "src/assets/abdelbast.jpeg",
+		"image": "abdelbast.jpeg",
 		"Server": "http://server7.mp3quran.net/basit",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -412,7 +412,7 @@
 	{
 		"id": 52,
 		"name": "عبدالباسط عبدالصمد",
-		"image": "src/assets/abdelbast.jpeg",
+		"image": "abdelbast.jpeg",
 		"Server": "http://server10.mp3quran.net/basit_warsh",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -422,7 +422,7 @@
 	{
 		"id": 51,
 		"name": "عبدالباسط عبدالصمد ",
-		"image": "src/assets/abdelbast.jpeg",
+		"image": "abdelbast.jpeg",
 		"Server": "http://server13.mp3quran.net/basit_mjwd",
 		"rewaya": "المصحف المجود",
 		"count": "114",
@@ -432,7 +432,7 @@
 	{
 		"id": 54,
 		"name": "عبدالرحمن السديس",
-		"image": "src/assets/291024171_575503910815222_8229548457171762841_n.jpg",
+		"image": "291024171_575503910815222_8229548457171762841_n.jpg",
 		"Server": "http://server11.mp3quran.net/sds",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -442,7 +442,7 @@
 	{
 		"id": 55,
 		"name": "عبدالعزيز الأحمد",
-		"image": "src/assets/164283055_579990279587932_1464216584762986730_n.jpg",
+		"image": "164283055_579990279587932_1464216584762986730_n.jpg",
 		"Server": "http://server11.mp3quran.net/a_ahmed",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -452,7 +452,7 @@
 	{
 		"id": 202,
 		"name": "عبدالله الكندري",
-		"image": "src/assets/sadd.jpg",
+		"image": "sadd.jpg",
 		"Server": "http://server10.mp3quran.net/Abdullahk",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -462,7 +462,7 @@
 	{
 		"id": 60,
 		"name": "عبدالله بصفر",
-		"image": "src/assets/255922926_275132807955057_5276222727834345070_n.jpg",
+		"image": "255922926_275132807955057_5276222727834345070_n.jpg",
 		"Server": "http://server6.mp3quran.net/bsfr",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -472,7 +472,7 @@
 	{
 		"id": 61,
 		"name": "عبدالله خياط",
-		"image": "src/assets/alhayt.jpeg",
+		"image": "alhayt.jpeg",
 		"Server": "http://server12.mp3quran.net/kyat",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -482,7 +482,7 @@
 	{
 		"id": 62,
 		"name": "عبدالله عواد الجهني",
-		"image": "src/assets/165897052_290531619113920_8194416393202533451_n.jpg",
+		"image": "165897052_290531619113920_8194416393202533451_n.jpg",
 		"Server": "http://server13.mp3quran.net/jhn",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -492,7 +492,7 @@
 	{
 		"id": 66,
 		"name": "عبدالمحسن الحارثي",
-		"image": "src/assets/N9K8dRKC_400x400.jpg",
+		"image": "N9K8dRKC_400x400.jpg",
 		"Server": "http://server6.mp3quran.net/mohsin_harthi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -502,7 +502,7 @@
 	{
 		"id": 69,
 		"name": "عبدالمحسن العبيكان",
-		"image": "src/assets/560208_357358950993172_1935511644_n.jpg",
+		"image": "560208_357358950993172_1935511644_n.jpg",
 		"Server": "http://server12.mp3quran.net/obk",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -512,7 +512,7 @@
 	{
 		"id": 67,
 		"name": "عبدالمحسن القاسم",
-		"image": "src/assets/16387316_10154087146751300_777483989485435862_n.jpg",
+		"image": "16387316_10154087146751300_777483989485435862_n.jpg",
 		"Server": "http://server8.mp3quran.net/qasm",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -522,7 +522,7 @@
 	{
 		"id": 70,
 		"name": "عبدالهادي أحمد كناكري",
-		"image": "src/assets/abdulhadi-kanakeri.png",
+		"image": "abdulhadi-kanakeri.png",
 		"Server": "http://server6.mp3quran.net/kanakeri",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -532,7 +532,7 @@
 	{
 		"id": 71,
 		"name": "عبدالودود حنيف",
-		"image": "src/assets/313897556_558921079571095_7338222008522660389_n.jpg",
+		"image": "313897556_558921079571095_7338222008522660389_n.jpg",
 		"Server": "http://server8.mp3quran.net/wdod",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -542,7 +542,7 @@
 	{
 		"id": 75,
 		"name": "علي الحذيفي",
-		"image": "src/assets/305574682_664404325259290_885261561843509726_n.jpg",
+		"image": "305574682_664404325259290_885261561843509726_n.jpg",
 		"Server": "http://server9.mp3quran.net/huthifi_qalon",
 		"rewaya": "قالون عن نافع",
 		"count": "114",
@@ -552,7 +552,7 @@
 	{
 		"id": 74,
 		"name": "علي بن عبدالرحمن الحذيفي",
-		"image": "src/assets/305574682_664404325259290_885261561843509726_n.jpg",
+		"image": "305574682_664404325259290_885261561843509726_n.jpg",
 		"Server": "http://server9.mp3quran.net/hthfi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -562,7 +562,7 @@
 	{
 		"id": 76,
 		"name": "علي جابر",
-		"image": "src/assets/299842946_610600850589287_4781977593143264634_n.jpg",
+		"image": "299842946_610600850589287_4781977593143264634_n.jpg",
 		"Server": "http://server11.mp3quran.net/a_jbr",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -572,7 +572,7 @@
 	{
 		"id": 77,
 		"name": "علي حجاج السويسي",
-		"image": "src/assets/ali-hajjaj-souissi.png",
+		"image": "ali-hajjaj-souissi.png",
 		"Server": "http://server9.mp3quran.net/hajjaj",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -582,7 +582,7 @@
 	{
 		"id": 78,
 		"name": "عماد زهير حافظ",
-		"image": "src/assets/amar.jpg",
+		"image": "amar.jpg",
 		"Server": "http://server6.mp3quran.net/hafz",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -592,7 +592,7 @@
 	{
 		"id": 80,
 		"name": "عمر القزابري",
-		"image": "src/assets/236224743_382735326552786_6616989884050573454_n.jpg",
+		"image": "236224743_382735326552786_6616989884050573454_n.jpg",
 		"Server": "http://server9.mp3quran.net/omar_warsh",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -602,7 +602,7 @@
 	{
 		"id": 81,
 		"name": "فارس عباد",
-		"image": "src/assets/325412549_768284554785392_5542321075311305486_n.jpg",
+		"image": "325412549_768284554785392_5542321075311305486_n.jpg",
 		"Server": "http://server8.mp3quran.net/frs_a",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -612,7 +612,7 @@
 	{
 		"id": 102,
 		"name": "ماهر المعيقلي",
-		"image": "src/assets/366374398_842471014118509_5322060688072408543_n.jpg",
+		"image": "366374398_842471014118509_5322060688072408543_n.jpg",
 		"Server": "http://server12.mp3quran.net/maher",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -622,7 +622,7 @@
 	{
 		"id": 149,
 		"name": "ماهر شخاشيرو",
-		"image": "src/assets/285872287_4627627007337140_8521040966180780686_n.jpg",
+		"image": "285872287_4627627007337140_8521040966180780686_n.jpg",
 		"Server": "http://server10.mp3quran.net/shaksh",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -632,7 +632,7 @@
 	{
 		"id": 109,
 		"name": "محمد أيوب",
-		"image": "src/assets/Muhammad_ayop.jpeg",
+		"image": "Muhammad_ayop.jpeg",
 		"Server": "http://server8.mp3quran.net/ayyub",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -642,7 +642,7 @@
 	{
 		"id": 106,
 		"name": "محمد الطبلاوي",
-		"image": "src/assets/178441360_104993018408733_8978654882390992700_n.jpg",
+		"image": "178441360_104993018408733_8978654882390992700_n.jpg",
 		"Server": "http://server12.mp3quran.net/tblawi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -652,7 +652,7 @@
 	{
 		"id": 107,
 		"name": "محمد اللحيدان",
-		"image": "src/assets/39928666_2190403467855100_2428483910565363712_n.jpg",
+		"image": "39928666_2190403467855100_2428483910565363712_n.jpg",
 		"Server": "http://server8.mp3quran.net/lhdan",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -662,7 +662,7 @@
 	{
 		"id": 111,
 		"name": "محمد جبريل",
-		"image": "src/assets/195839681_331636211663937_5840854812064541390_n.jpg",
+		"image": "195839681_331636211663937_5840854812064541390_n.jpg",
 		"Server": "http://server8.mp3quran.net/jbrl",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -672,7 +672,7 @@
 	{
 		"id": 198,
 		"name": "محمد رشاد الشريف",
-		"image": "src/assets/mohamed.jpg",
+		"image": "mohamed.jpg",
 		"Server": "http://server10.mp3quran.net/rashad",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -682,7 +682,7 @@
 	{
 		"id": 110,
 		"name": "محمد صالح عالم شاه",
-		"image": "src/assets/salh.jpg",
+		"image": "salh.jpg",
 		"Server": "http://server12.mp3quran.net/shah",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -692,7 +692,7 @@
 	{
 		"id": 113,
 		"name": "محمد صديق المنشاوي",
-		"image": "src/assets/241152226_382098313480822_2118628144783517341_n.jpg",
+		"image": "241152226_382098313480822_2118628144783517341_n.jpg",
 		"Server": "http://server11.mp3quran.net/minsh_mjwd",
 		"rewaya": "المصحف المجود",
 		"count": "114",
@@ -702,7 +702,7 @@
 	{
 		"id": 112,
 		"name": "محمد صديق المنشاوي",
-		"image": "src/assets/241152226_382098313480822_2118628144783517341_n.jpg",
+		"image": "241152226_382098313480822_2118628144783517341_n.jpg",
 		"Server": "http://server10.mp3quran.net/minsh",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -712,7 +712,7 @@
 	{
 		"id": 117,
 		"name": "محمد عبدالحكيم سعيد العبدالله",
-		"image": "src/assets/sadassaa.jpg",
+		"image": "sadassaa.jpg",
 		"Server": "http://server12.mp3quran.net/abdullah_dori",
 		"rewaya": "الدوري عن الكسائي",
 		"count": "114",
@@ -722,7 +722,7 @@
 	{
 		"id": 116,
 		"name": "محمد عبدالحكيم سعيد العبدالله",
-		"image": "src/assets/sadassaa.jpg",
+		"image": "sadassaa.jpg",
 		"Server": "http://server9.mp3quran.net/abdullah",
 		"rewaya": "البزي وقنبل عن ابن كثير",
 		"count": "114",
@@ -732,7 +732,7 @@
 	{
 		"id": 115,
 		"name": "محمد عبدالكريم",
-		"image": "src/assets/306783965_456387879794041_5154727921127689226_n.jpg",
+		"image": "306783965_456387879794041_5154727921127689226_n.jpg",
 		"Server": "http://server12.mp3quran.net/m_krm",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -742,7 +742,7 @@
 	{
 		"id": 210,
 		"name": "محمد عبدالكريم",
-		"image": "src/assets/306783965_456387879794041_5154727921127689226_n.jpg",
+		"image": "306783965_456387879794041_5154727921127689226_n.jpg",
 		"Server": "http://server7.mp3quran.net/m_kreem_warsh",
 		"rewaya": "ورش عن نافع من طريق أبي بكر الأصبهاني",
 		"count": "114",
@@ -752,7 +752,7 @@
 	{
 		"id": 206,
 		"name": "محمد عثمان خان ( من الهند )",
-		"image": "src/assets/189502450_2686901654935252_6893980065646110386_n.jpg",
+		"image": "189502450_2686901654935252_6893980065646110386_n.jpg",
 		"Server": "http://server6.mp3quran.net/khan",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -762,7 +762,7 @@
 	{
 		"id": 165,
 		"name": "محمود الرفاعي",
-		"image": "src/assets/mahmood-al-rifai.png",
+		"image": "mahmood-al-rifai.png",
 		"Server": "http://server11.mp3quran.net/mrifai",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -772,7 +772,7 @@
 	{
 		"id": 151,
 		"name": "محمود الشيمي",
-		"image": "src/assets/mahmoud-el-sheimy.png",
+		"image": "mahmoud-el-sheimy.png",
 		"Server": "http://server10.mp3quran.net/sheimy",
 		"rewaya": "الدوري عن الكسائي",
 		"count": "114",
@@ -782,7 +782,7 @@
 	{
 		"id": 120,
 		"name": "محمود خليل الحصري",
-		"image": "src/assets/125526042_3548661491865517_8182972492584258565_n.jpg",
+		"image": "125526042_3548661491865517_8182972492584258565_n.jpg",
 		"Server": "http://server9.mp3quran.net/husr_warsh",
 		"rewaya": "ورش عن نافع",
 		"count": "114",
@@ -792,7 +792,7 @@
 	{
 		"id": 119,
 		"name": "محمود خليل الحصري",
-		"image": "src/assets/125526042_3548661491865517_8182972492584258565_n.jpg",
+		"image": "125526042_3548661491865517_8182972492584258565_n.jpg",
 		"Server": "http://server9.mp3quran.net/husr_mjwd",
 		"rewaya": "المصحف المجود",
 		"count": "114",
@@ -802,7 +802,7 @@
 	{
 		"id": 118,
 		"name": "محمود خليل الحصري",
-		"image": "src/assets/125526042_3548661491865517_8182972492584258565_n.jpg",
+		"image": "125526042_3548661491865517_8182972492584258565_n.jpg",
 		"Server": "http://server13.mp3quran.net/husr",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -812,7 +812,7 @@
 	{
 		"id": 122,
 		"name": "محمود علي البنا",
-		"image": "src/assets/mahmud.jpg",
+		"image": "mahmud.jpg",
 		"Server": "http://server8.mp3quran.net/bna_mjwd",
 		"rewaya": "المصحف المجود",
 		"count": "114",
@@ -822,7 +822,7 @@
 	{
 		"id": 121,
 		"name": "محمود علي البنا",
-		"image": "src/assets/mahmud.jpg",
+		"image": "mahmud.jpg",
 		"Server": "http://server8.mp3quran.net/bna",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -832,7 +832,7 @@
 	{
 		"id": 123,
 		"name": "مشاري العفاسي",
-		"image": "src/assets/220572389_367390574743126_1872684013374171929_n.jpg",
+		"image": "220572389_367390574743126_1872684013374171929_n.jpg",
 		"Server": "http://server8.mp3quran.net/afs",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -842,7 +842,7 @@
 	{
 		"id": 125,
 		"name": "مصطفى إسماعيل",
-		"image": "src/assets/301949111_619452033085222_7382623008242345104_n.png",
+		"image": "301949111_619452033085222_7382623008242345104_n.png",
 		"Server": "http://server8.mp3quran.net/mustafa",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -852,7 +852,7 @@
 	{
 		"id": 126,
 		"name": "مصطفى اللاهوني",
-		"image": "src/assets/405926262_886423832883786_594439466000199342_n.jpg",
+		"image": "405926262_886423832883786_594439466000199342_n.jpg",
 		"Server": "http://server6.mp3quran.net/lahoni",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -862,7 +862,7 @@
 	{
 		"id": 127,
 		"name": "مصطفى رعد العزاوي",
-		"image": "src/assets/100679916_3867427689997479_4927855685120557056_n.jpg",
+		"image": "100679916_3867427689997479_4927855685120557056_n.jpg",
 		"Server": "http://server8.mp3quran.net/ra3ad",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -872,7 +872,7 @@
 	{
 		"id": 197,
 		"name": "معيض الحارثي",
-		"image": "src/assets/downloadasss.jpeg",
+		"image": "downloadasss.jpeg",
 		"Server": "http://server8.mp3quran.net/harthi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -882,7 +882,7 @@
 	{
 		"id": 180,
 		"name": "مفتاح السلطني",
-		"image": "src/assets/377275423_968685001048395_7165900027441435238_n.jpg",
+		"image": "377275423_968685001048395_7165900027441435238_n.jpg",
 		"Server": "http://server6.mp3quran.net/saltany_kisaia",
 		"rewaya": "الدوري عن الكسائي",
 		"count": "114",
@@ -892,7 +892,7 @@
 	{
 		"id": 196,
 		"name": "مفتاح السلطني",
-		"image": "src/assets/377275423_968685001048395_7165900027441435238_n.jpg",
+		"image": "377275423_968685001048395_7165900027441435238_n.jpg",
 		"Server": "http://server11.mp3quran.net/muftah_thakwan",
 		"rewaya": "ابن ذكوان عن ابن عامر",
 		"count": "114",
@@ -902,7 +902,7 @@
 	{
 		"id": 129,
 		"name": "مفتاح السلطني",
-		"image": "src/assets/377275423_968685001048395_7165900027441435238_n.jpg",
+		"image": "377275423_968685001048395_7165900027441435238_n.jpg",
 		"Server": "http://server9.mp3quran.net/sultany",
 		"rewaya": "الدوري عن أبي عمرو",
 		"count": "114",
@@ -912,7 +912,7 @@
 	{
 		"id": 182,
 		"name": "مفتاح السلطني",
-		"image": "src/assets/377275423_968685001048395_7165900027441435238_n.jpg",
+		"image": "377275423_968685001048395_7165900027441435238_n.jpg",
 		"Server": "http://server10.mp3quran.net/muftah",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -922,7 +922,7 @@
 	{
 		"id": 161,
 		"name": "موسى بلال",
-		"image": "src/assets/masa.jpg",
+		"image": "masa.jpg",
 		"Server": "http://server11.mp3quran.net/bilal",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -932,7 +932,7 @@
 	{
 		"id": 86,
 		"name": "ناصر القطامي",
-		"image": "src/assets/339411710_694306159169222_5996159899755049000_n.jpg",
+		"image": "339411710_694306159169222_5996159899755049000_n.jpg",
 		"Server": "http://server6.mp3quran.net/qtm",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -942,7 +942,7 @@
 	{
 		"id": 87,
 		"name": "نبيل الرفاعي",
-		"image": "src/assets/300583417_443614174487782_3394918461957167877_n.jpg",
+		"image": "300583417_443614174487782_3394918461957167877_n.jpg",
 		"Server": "http://server9.mp3quran.net/nabil",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -952,7 +952,7 @@
 	{
 		"id": 88,
 		"name": "نعمة الحسان",
-		"image": "src/assets/110615399_3058764820898224_7724460594993982153_n.jpg",
+		"image": "110615399_3058764820898224_7724460594993982153_n.jpg",
 		"Server": "http://server8.mp3quran.net/namh",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -962,7 +962,7 @@
 	{
 		"id": 89,
 		"name": "هاني الرفاعي",
-		"image": "src/assets/10246291_824721074209344_8584055469955035546_n.jpg",
+		"image": "10246291_824721074209344_8584055469955035546_n.jpg",
 		"Server": "http://server8.mp3quran.net/hani",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -972,7 +972,7 @@
 	{
 		"id": 91,
 		"name": "وليد النائحي",
-		"image": "src/assets/waled.jpg",
+		"image": "waled.jpg",
 		"Server": "http://server9.mp3quran.net/waleed",
 		"rewaya": "قالون عن نافع من طريق أبي نشيط",
 		"count": "114",
@@ -982,7 +982,7 @@
 	{
 		"id": 92,
 		"name": "ياسر الدوسري",
-		"image": "src/assets/319329597_134876419404421_9057971324520596476_n.jpg",
+		"image": "319329597_134876419404421_9057971324520596476_n.jpg",
 		"Server": "http://server11.mp3quran.net/yasser",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -992,7 +992,7 @@
 	{
 		"id": 93,
 		"name": "ياسر القرشي",
-		"image": "src/assets/274097290_4744172738971230_1703960915323442390_n.jpg",
+		"image": "274097290_4744172738971230_1703960915323442390_n.jpg",
 		"Server": "http://server9.mp3quran.net/qurashi",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -1002,7 +1002,7 @@
 	{
 		"id": 95,
 		"name": "ياسر المزروعي ",
-		"image": "src/assets/yasser.jpg",
+		"image": "yasser.jpg",
 		"Server": "http://server9.mp3quran.net/mzroyee",
 		"rewaya": "يعقوب الحضرمي بروايتي رويس وروح",
 		"count": "114",
@@ -1012,7 +1012,7 @@
 	{
 		"id": 96,
 		"name": "يحيى حوا",
-		"image": "src/assets/343001533_1216043789098994_720587574283198185_n.jpg",
+		"image": "343001533_1216043789098994_720587574283198185_n.jpg",
 		"Server": "http://server12.mp3quran.net/yahya",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -1022,7 +1022,7 @@
 	{
 		"id": 97,
 		"name": "يوسف الشويعي",
-		"image": "src/assets/photo.jpg",
+		"image": "photo.jpg",
 		"Server": "http://server9.mp3quran.net/yousef",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
@@ -1032,7 +1032,7 @@
 	{
 		"id": 193,
 		"name": "يوسف بن نوح أحمد",
-		"image": "src/assets/308160232_458523729646745_8904206270323219509_n.jpg",
+		"image": "308160232_458523729646745_8904206270323219509_n.jpg",
 		"Server": "http://server8.mp3quran.net/noah",
 		"rewaya": "حفص عن عاصم",
 		"count": "114",
