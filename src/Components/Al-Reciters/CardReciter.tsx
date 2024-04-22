@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom"
+import { getImageUrl }from "../../../utils.tsx"
 import { Button, Card, Image } from "@nextui-org/react";
 function CardReciter({reciter}: {reciter:{image: string,name: string,rewaya:string, id:number}}) {
   const Navigate = useNavigate()
@@ -9,7 +10,8 @@ function CardReciter({reciter}: {reciter:{image: string,name: string,rewaya:stri
         removeWrapper
         alt="Relaxing app background"
         className="z-0 w-full opacity-100 h-full object-cover"
-        src={new  URL(reciter.image).href}
+        src={getImageUrl(reciter.image)}
+        
       />
       <div className="absolute w-100 p-3 bg-white bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
         <div className="flex flex-grow gap-2 justify-between  items-center">
