@@ -8,6 +8,7 @@ import {
 } from "@nextui-org/react";
 import { useEffect, useState } from "react";
 import { CardQW } from "../../Types/app";
+import  Questions  from "../../Json/QuestionsJSON.json";
 export default function CardQ({
   filter,
   searchText,
@@ -15,18 +16,8 @@ export default function CardQ({
   filter: string;
   searchText: string;
 }) {
-  const [allData, setAllData] = useState<CardQW[]>([]);
-  const [data, setData] = useState<CardQW[]>(allData);
-  useEffect(() => {
-    fetch("./src/Json/QuestionsJSON.json")
-      .then((e) => e.json())
-      .then((e) => {
-        setAllData(e);
-        setData(e);
-      });
-  }, []);
-  // useEffect(() => {
-  // }, [searchText])
+  const [allData, ] = useState<CardQW[]>(Questions);
+  const [data, setData] = useState<CardQW[]>(Questions);
   useEffect(() => {
     if (searchText != "") {
       setData(
@@ -39,12 +30,11 @@ export default function CardQ({
       setData(allData.filter((el) => el.category == filter));
     }
   }, [filter, searchText]);
-  console.log(data);
 
   return (
     <>
       {data.length == 0  ? <h1 className="text-center fs-1 col-12 "> لا يوجد اختبارات حالا</h1> : data.map((QU) => (
-        <Card className="col-12 col-sm-5 lg:w-3/5 text-end ">
+        <Card className="col-12 col-sm-5 lg:w-3/5 text-end " key={QU.Link}>
           <CardHeader className="justify-end">
             <div className="">
               <p className="fs-1 text-md">{QU.Name}</p>
